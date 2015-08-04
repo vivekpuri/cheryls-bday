@@ -4,7 +4,7 @@
 It gained quite a bit of popularity and many people posted their solution online. One of the solution was by [Peter Norvig](http://nbviewer.ipython.org/url/norvig.com/ipython/Cheryl.ipynb).
 I am used to [Python](https://www.python.org/) so this solution was very easy to understand.
 
-I was trying to learn [Clojure][http://clojure.org]So I decided to try writing the colution in clojure. This is the result of my trial.
+I was trying to learn [Clojure](http://clojure.org) so I decided to try writing the colution in clojure. This is the result of my trial.
 It may not be the best clojure solution but it did help me learn more about Clojure language.
 
 The solution itself is borrowed from original Python solution.
